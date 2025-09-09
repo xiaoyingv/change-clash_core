@@ -54,7 +54,7 @@
 
 ### 【参考引用】
 
->  [1]https://github.com/kayaladream/Clash-Core-Change/releases/tag/v2.0
+> [1]https://github.com/kayaladream/Clash-Core-Change/releases/tag/v2.0
 > [2]mihomo内核下载地址:https://github.com/MetaCubeX/mihomo/releases
 > [3]旧版本meta内核：https://github.com/MetaCubeX/mihomo/tree/v1.16.0
 
