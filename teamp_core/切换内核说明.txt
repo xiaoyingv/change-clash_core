@@ -1,0 +1,11 @@
+1. 下载将teamp_core放到文件夹（C:\my_install\install\Clash for Windows\resources\static\files\win\x64）中
+2.将Switch-ClashCore.ps1也放在安装目录的（C:\my_install\install\Clash for Windows\resources\static\files\win\x64）中
+3.检查安装路径修改Switch-ClashCore.ps1里面程序指向的路径
+4.双击运行Switch-ClashCore.ps1 脚本
+5.打开程序查看是否正确读取内核
+6.完成！
+
+【引用】
+[1]https://github.com/kayaladream/Clash-Core-Change/releases/tag/v2.0
+[2]mihomo内核下载地址:https://github.com/MetaCubeX/mihomo/releases
+[3]旧版本meta内核：https://github.com/MetaCubeX/mihomo/tree/v1.16.0
