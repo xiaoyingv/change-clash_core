@@ -1,8 +1,8 @@
 ### language
 
-[中文](REDME.md)
+[中文](README.md)
 
-[英文](REDME_en.md)
+[英文](README_en.md)
 
 ### This project is based on [kayaladream/Clash-Core-Change](https://github.com/kayaladream/Clash-Core-Change) and includes several improvements over the original version.
 
