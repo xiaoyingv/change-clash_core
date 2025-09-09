@@ -20,7 +20,7 @@
 
 > 注：前面路径替换成你程序的实际安装目录
 
-![路径](images\path.png)
+![路径](./images/path.png)
 
 1. 检查安装路径修改*Switch-ClashCore.ps1*里面程序指向的路径
 
